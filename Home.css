@@ -1,4 +1,4 @@
- .u-section-1 {
+.u-section-1 {
   background-color: #b0c4b9;
 }
 .u-section-1 .u-sheet-1 {
@@ -29,7 +29,7 @@
 .u-section-1 .u-image-2 {
   width: 457px;
   height: 707px;
-  margin: 28px auto -120px 132px;
+  margin: 28px 0px -120px 98px;
 }
 .u-section-1 .u-group-1 {
   width: 454px;
@@ -95,15 +95,17 @@
 }
 .u-section-1 .u-btn-2 {
   border-style: none;
-  font-weight: 700;
+  font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-image: none;
   box-shadow: 0 0 19px 0 rgba(128,128,128,0.9);
   margin: 103px auto 0;
-  padding: 35px 138px 35px 136px;
+  padding: 35px 110px 35px 110px;
   background-color: #b0c4b9;
   margin-top: 92px;
+  font-size: 25px;
+  color: #fff;
 }
 img.fr-view {
   position: relative;
